@@ -1,1 +1,1 @@
-Nothing here, check later.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=24&duration=3500&pause=1000&color=EBDBB2&background=282828&center=true&vCenter=true&width=500&lines=Hi%2C+Caxapoza+there.;I'm+15+year+old.;I+create+small+utilities...;...+for+improving+basic+tasks.;I+live+in+Poland.)](https://git.io/typing-svg)
