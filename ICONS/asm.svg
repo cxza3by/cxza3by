@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1000 1000"
+   width="100%"
+   height="100%"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="Assembler.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.65336667"
+     inkscape:cx="359.67553"
+     inkscape:cy="356.61446"
+     inkscape:window-width="1697"
+     inkscape:window-height="1132"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <!-- Маска для шестиугольника, чтобы фон идеально обрезался по краям -->
+    <clipPath
+       id="hexagonClip">
+      <polygon
+         points="60,500 280,119 720,119 940,500 720,881 280,881"
+         id="polygon1" />
+    </clipPath>
+  </defs>
+  <!-- Фон шестиугольника с разделением по диагонали -->
+  <g
+     clip-path="url(#hexagonClip)"
+     id="g3">
+    <!-- Левая (темно-синяя) часть. Диагональ идет от верхнего края (570,0) к нижнему (430,1000) -->
+    <!-- Правая (светло-синяя/фиолетовая) часть -->
+    <polygon
+       points="1000,0 1000,1000 430,1000 570,0 "
+       fill="#5d60c1"
+       id="polygon3"
+       transform="matrix(1,0,-0.62337662,1,311.68831,0)"
+       style="fill:#5c6bc1;fill-opacity:1.0" />
+    <polygon
+       points="1000,0 1000,1000 430,1000 570,0 "
+       fill="#5d60c1"
+       id="polygon3-7"
+       transform="matrix(1,0,-0.12121213,1,92.809524,-496.27706)"
+       style="fill:#3949ac;fill-opacity:1" />
+    <polygon
+       points="570,0 430,1000 0,1000 0,0 "
+       fill="#0a3e9f"
+       id="polygon2"
+       transform="matrix(1,0,-0.42424242,1,212.12121,0)"
+       style="fill:#0e47a2;fill-opacity:1" />
+  </g>
+  <!-- Надпись ASM -->
+  <!-- Выравнивание по центру, белый цвет, жирность normal. 
+       Если шрифт отличается, в Inkscape можно выделить текст и выбрать Arial, Helvetica или похожий геометрический шрифт без засечек -->
+  <text
+     x="514.02863"
+     y="489.53601"
+     dy="126.48699"
+     text-anchor="middle"
+     fill="#FFFFFF"
+     font-family="Arial, Helvetica, sans-serif"
+     font-weight="normal"
+     font-size="320"
+     letter-spacing="-10"
+     id="text3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:361.392px;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-11.2935;text-anchor:middle;fill:#ffffff;stroke-width:0.999996">ASM</text>
+</svg>
